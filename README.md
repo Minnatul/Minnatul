@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**Minnatul/Minnatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, I'm Md. Minnatul Hasan
 
-Here are some ideas to get you started:
+I’m a passionate and detail-oriented **NOC Engineer** with a solid foundation in server and network infrastructure. I’m currently working at **Walton Hi-Tech Industries PLC**, where I monitor and maintain enterprise-level IT systems. I love solving technical challenges and constantly strive to expand my skills, especially in **networking, server configuration, and automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Focus
+- Working as a **Network Operations Center (NOC) Engineer**
+- Learning **Python** to enhance my automation and scripting skills
+- Exploring **network automation** and **cloud infrastructure**
+
+---
+
+### 🎓 Education
+**B.Sc. in Electronics & Communication Engineering**  
+Hajee Mohammad Danesh Science and Technology University (HSTU)
+
+---
+
+### 🛠️ Technical Skills
+- **Networking:** CCNA, MTCNA, MTCRE, MTCSE certified  
+- **Tools & Platforms:** Cisco, MikroTik, DNS, FTP, Telnet  
+- **Programming:** HTML, C, Java, Python (learning)  
+- **Software:** Cisco Packet Tracer, MATLAB, emu8086  
+- **Office Tools:** Microsoft Office, Google Workspace  
+
+---
+
+### 📌 Interests
+- Network Automation  
+- Server Management  
+- Python Scripting  
+- Cybersecurity  
+- Cloud Services
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-minnatul-hasan-b0a16b204/)  
+📧 minnatulhasan43@gmail.com  
+📱 +8801317150807
