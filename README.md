@@ -36,7 +36,11 @@ Hajee Mohammad Danesh Science and Technology University (HSTU)
 
 ---
 
+### 📌 Featured Projects
+
+https://github.com/Minnatul/network-engineering-portfolio
+
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-minnatul-hasan-b0a16b204/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/minnatul)  
 📧 minnatulhasan43@gmail.com  
-📱 +8801317150807
+
